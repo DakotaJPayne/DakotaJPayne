@@ -1,5 +1,5 @@
 # Здорово(Hey)👋, I'm Dakota J Payne!  
-<br/>
+---
 
 ## I'm a Financial Trader and Developer!
 - 📈 I'm currently improving my trading skills
