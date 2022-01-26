@@ -1,9 +1,8 @@
 # Здорово(Hey)👋, I'm Dakota J Payne!  
----
 
 ## I'm a Financial Trader and Developer!
 - 📈 I'm currently improving my trading skills
-- 🎥 I'm Documenting my trading progression on [Youtube]
+- 🎥 I'm Documenting my trading progression on [youtube]
 - 🖥️ I'm currently learning HTML/CSS/JS...when I'm not backtesting😅
 
 ## Languages I'm Learning
@@ -18,14 +17,15 @@
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 
 ## Find & Contact Me
-[<img align="left" alt="dakotajpayne | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][YouTube]
+[<img align="left" alt="dakotajpayne | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="dakotajpayne | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="dakotajpayne | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="dakotajpayne | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]	 
 
 
 [website]: https://dakotajpayne.com
-		   [YouTube]: https://youtube.com/dakotajpayne
+[youtube]: https://youtube.com/dakotajpayne
 [linkedin]: https://linkedin.com/in/dakotajpayne
 [instagram]: https://instagram.com/dakotajpayne
-[blog]: https://medium.com/@dakotajpayne
+[medium]: https://medium.com/@dakotajpayne
 [twitter]: https://twitter.com/dakotajpayne
