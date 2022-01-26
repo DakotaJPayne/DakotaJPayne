@@ -1,6 +1,5 @@
 # Здорово(Hey)👋, I'm Dakota J Payne!  
 ---
-
 ## I'm a Financial Trader and Developer!
 - 📈 I'm currently improving my trading skills
 - 🎥 I'm Documenting my trading progression on [Youtube]
