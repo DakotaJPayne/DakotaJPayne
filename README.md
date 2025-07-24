@@ -5,7 +5,7 @@
 - 🎥 I'm Documenting my progression on [youtube]
 - 🖥️ I'm currently learning Python/C++/Linux/Data Analytics...when I'm not backtesting😅
 
-## Languages I'm Learning
+<!--## Languages I'm Learning-->
 <!-- Add links to projects when completed %% -->
 <!--[HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5) -->
 <!--[CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)-->
